@@ -1,121 +1,244 @@
 [
-    {
-        "score": 82,
-        "summary": "Reyhan Alhas, a seasoned Data Scientist with 7 years of experience, is well-suited for the Data Scientist role at Getir. With expertise in machine learning, deep learning, and model deployment, Reyhan has a strong foundation to drive impactful data-driven insights across the delivery domain.",
-        "matching_skills": [
-            "Machine Learning",
-            "Deep Learning",
-            "Model Deployment",
-            "Python",
-            "SQL",
-            "Scikit-learn",
-            "xgboost/lightgbm/catboost",
-            "PyTorch",
-            "TensorFlow",
-            "FastAPI",
-            "Collaboration",
-            "Communication"
-        ],
-        "skill_gaps": [
-            "GPS and IoT data experience",
-            "Large Language Models (LLMs) fine-tuning and RAG implementation",
-            "Experience working with deep learning architectures such as LSTMs and GNNs"
-        ],
-        "name": "Reyhan Alhas",
-        "last_position": "Senior Software Design Engineer at NETAŞ"
-    },
-    {
-        "score": 82,
-        "summary": "Beste Şen is a highly experienced Data Scientist with a strong background in machine learning and model deployment. With a proven track record of developing and deploying machine learning solutions, Beste is well-suited for the role of Data Scientist at Getir.",
-        "matching_skills": [
-            "Machine Learning",
-            "Model Deployment",
-            "Python",
-            "SQL",
-            "Data Visualization",
-            "Data Science",
-            "Risk Scoring",
-            "Sentiment Analysis"
-        ],
-        "skill_gaps": [
-            "Deep Learning",
-            "LSTM and GNN architectures",
-            "Fine-tuning and RAG implementation",
-            "Large Language Models (LLMs)",
-            "FastAPI",
-            "GPS and IoT data"
-        ],
-        "name": "Beste Şen",
-        "last_position": "Data Scientist at Garanti BBVA"
-    },
-    {
-        "score": 85,
-        "summary": "Hasret DOĞUER is a data scientist with a strong background in machine learning, deep learning, and data science. He has experience in developing and deploying machine learning models, and has a strong proficiency in Python and SQL.",
-        "matching_skills": [
-            "Machine Learning",
-            "Deep Learning",
-            "Python",
-            "SQL",
-            "Model Deployment",
-            "Forecasting",
-            "Risk Scoring",
-            "Sentiment Analysis"
-        ],
-        "skill_gaps": [
-            "Experience with GPS and IoT data",
-            "Hands-on experience with large language models (LLMs)",
-            "Experience with fine-tuning and RAG implementation",
-            "Bachelor's degree in Computer Science, Computer Engineering, or a related field"
-        ],
-        "name": "Hasret DOĞUER",
-        "last_position": "Data Scientist at FABAY"
-    },
-    {
-        "score": 85,
-        "summary": "Nazlı Deniz Aksaylı is a highly skilled Data Scientist & Machine Learning Engineer with a strong background in machine learning, deep learning, and model deployment. She has hands-on experience in developing and deploying machine learning models for diverse use cases, and has a strong proficiency in Python, SQL, and machine learning libraries.",
-        "matching_skills": [
-            "Machine Learning",
-            "Deep Learning",
-            "Model Deployment",
-            "Python",
-            "SQL",
-            "Scikit-learn",
-            "XGBoost/LightGBM/CatBoost",
-            "PyTorch",
-            "TensorFlow",
-            "FastAPI",
-            "Natural Language Processing"
-        ],
-        "skill_gaps": [
-            "GPS and IoT data experience",
-            "LSTM and GNN architectures",
-            "Fine-tuning and RAG implementation in large language models",
-            "Bachelor's degree in Computer Science, Computer Engineering, or a related field"
-        ],
-        "name": "Nazlı Deniz Aksaylı",
-        "last_position": "Expert Data Scientist at Garanti BBVA Teknoloji"
-    },
-    {
-        "score": 80,
-        "summary": "Merve Kıpık is a seasoned Data Scientist with 5 years of experience in data science, machine learning, and deep learning. She has a strong background in Python, SAS, and statistical analysis, and has worked on various projects including forecasting, segmentation, and natural language processing.",
-        "matching_skills": [
-            "Machine Learning",
-            "Deep Learning",
-            "Python",
-            "SAS",
-            "Statistical Analysis",
-            "Forecasting",
-            "Segmentation",
-            "Natural Language Processing"
-        ],
-        "skill_gaps": [
-            "Experience with GPS and IoT data",
-            "Experience with large language models (LLMs) and fine-tuning",
-            "Experience with RAG implementation",
-            "Experience with frameworks such as FastAPI",
-            "Bachelor's degree in Computer Science, Computer Engineering, or a related field"
-        ],
-        "name": "Merve Kıpık",
-        "last_position": "Senior Data Scientist at Istanbul Metropolitan Municipality"
-    }
+  {
+    "score": 82,
+    "summary": "Reyhan Alhas, a seasoned Data Scientist with 7 years of experience, is well-suited for the Data Scientist role at Getir. With expertise in machine learning, deep learning, and model deployment, Reyhan has a strong foundation to drive impactful data-driven insights across the delivery domain.",
+    "matching_skills": [
+      "Machine Learning",
+      "Deep Learning",
+      "Model Deployment",
+      "Python",
+      "SQL",
+      "Scikit-learn",
+      "xgboost/lightgbm/catboost",
+      "PyTorch",
+      "TensorFlow",
+      "FastAPI",
+      "Collaboration",
+      "Communication"
+    ],
+    "skill_gaps": [
+      "GPS and IoT data experience",
+      "Large Language Models (LLMs) fine-tuning and RAG implementation",
+      "Experience working with deep learning architectures such as LSTMs and GNNs"
+    ],
+    "name": "Reyhan Alhas",
+    "last_position": "Senior Software Design Engineer at NETAŞ"
+  },
+  {
+    "score": 82,
+    "summary": "Beste Şen is a highly experienced Data Scientist with a strong background in machine learning and model deployment. With a proven track record of developing and deploying machine learning solutions, Beste is well-suited for the role of Data Scientist at Getir.",
+    "matching_skills": [
+      "Machine Learning",
+      "Model Deployment",
+      "Python",
+      "SQL",
+      "Data Visualization",
+      "Data Science",
+      "Risk Scoring",
+      "Sentiment Analysis"
+    ],
+    "skill_gaps": [
+      "Deep Learning",
+      "LSTM and GNN architectures",
+      "Fine-tuning and RAG implementation",
+      "Large Language Models (LLMs)",
+      "FastAPI",
+      "GPS and IoT data"
+    ],
+    "name": "Beste Şen",
+    "last_position": "Data Scientist at Garanti BBVA"
+  },
+  {
+    "score": 85,
+    "summary": "Hasret DOĞUER is a data scientist with a strong background in machine learning, deep learning, and data science. He has experience in developing and deploying machine learning models, and has a strong proficiency in Python and SQL.",
+    "matching_skills": [
+      "Machine Learning",
+      "Deep Learning",
+      "Python",
+      "SQL",
+      "Model Deployment",
+      "Forecasting",
+      "Risk Scoring",
+      "Sentiment Analysis"
+    ],
+    "skill_gaps": [
+      "Experience with GPS and IoT data",
+      "Hands-on experience with large language models (LLMs)",
+      "Experience with fine-tuning and RAG implementation",
+      "Bachelor's degree in Computer Science, Computer Engineering, or a related field"
+    ],
+    "name": "Hasret DOĞUER",
+    "last_position": "Data Scientist at FABAY"
+  },
+  {
+    "score": 85,
+    "summary": "Nazlı Deniz Aksaylı is a highly skilled Data Scientist & Machine Learning Engineer with a strong background in machine learning, deep learning, and model deployment. She has hands-on experience in developing and deploying machine learning models for diverse use cases, and has a strong proficiency in Python, SQL, and machine learning libraries.",
+    "matching_skills": [
+      "Machine Learning",
+      "Deep Learning",
+      "Model Deployment",
+      "Python",
+      "SQL",
+      "Scikit-learn",
+      "XGBoost/LightGBM/CatBoost",
+      "PyTorch",
+      "TensorFlow",
+      "FastAPI",
+      "Natural Language Processing"
+    ],
+    "skill_gaps": [
+      "GPS and IoT data experience",
+      "LSTM and GNN architectures",
+      "Fine-tuning and RAG implementation in large language models",
+      "Bachelor's degree in Computer Science, Computer Engineering, or a related field"
+    ],
+    "name": "Nazlı Deniz Aksaylı",
+    "last_position": "Expert Data Scientist at Garanti BBVA Teknoloji"
+  },
+  {
+    "score": 85,
+    "summary": "Hüseyin Kaan Süren is a Jr. Data Scientist with experience in machine learning, data science, and software development. He has a strong background in Python programming and has worked on various projects, including data science bootcamps and machine learning pipelines.",
+    "matching_skills": [
+      "Machine Learning",
+      "Python",
+      "TensorFlow",
+      "Data Science",
+      "Data Analysis",
+      "Feature Engineering",
+      "Model Deployment"
+    ],
+    "skill_gaps": [
+      "Deep Learning",
+      "Scikit-learn",
+      "Xgboost/Lightgbm/Catboost",
+      "PyTorch",
+      "FastAPI",
+      "GPS and IoT data",
+      "LSTMs and GNNs",
+      "Large Language Models (LLMs)",
+      "Research Methodologies"
+    ],
+    "name": "Hüseyin Kaan Süren",
+    "last_position": "Jr. Data Scientist | Machine Learning Engineer of your neighbourhood"
+  },
+  {
+    "score": 80,
+    "summary": "Merve Kıpık is a seasoned Data Scientist with 5 years of experience in data science, machine learning, and deep learning. She has a strong background in Python, SAS, and statistical analysis, and has worked on various projects including forecasting, segmentation, and natural language processing.",
+    "matching_skills": [
+      "Machine Learning",
+      "Deep Learning",
+      "Python",
+      "SAS",
+      "Statistical Analysis",
+      "Forecasting",
+      "Segmentation",
+      "Natural Language Processing"
+    ],
+    "skill_gaps": [
+      "Experience with GPS and IoT data",
+      "Experience with large language models (LLMs) and fine-tuning",
+      "Experience with RAG implementation",
+      "Experience with frameworks such as FastAPI",
+      "Bachelors degree in Computer Science, Computer Engineering, or a related field"
+    ],
+    "name": "Merve Kıpık",
+    "last_position": "Senior Data Scientist at Istanbul Metropolitan Municipality"
+  },
+  {
+    "score": 85,
+    "summary": "Mehmet Nur Yıldırım is an experienced Data Scientist with strong analysis and problem-solving skills, proficient in programming languages such as Python, SQL, and PHP. He has a background in Industrial Engineering and has worked on various projects related to data analysis, machine learning, and simulations.",
+    "matching_skills": [
+      "Deep Learning",
+      "Analytics",
+      "Simulations",
+      "Python",
+      "SQL",
+      "Machine Learning",
+      "Data Analysis"
+    ],
+    "skill_gaps": [
+      "Experience with GPS and IoT data",
+      "Hands-on experience with large language models (LLMs) and fine-tuning",
+      "Experience with frameworks such as FastAPI",
+      "Bachelors degree in Computer Science, Computer Engineering, or a related field (Mehmet Nur Yıldırım has a degree in Industrial Engineering)"
+    ],
+    "name": "Mehmet Nur Yıldırım",
+    "last_position": "Data Scientist at YEDAŞ - Yeşilırmak Elektrik Dağıtım A.Ş."
+  },
+  {
+    "score": 34,
+    "summary": "The candidate has extensive experience in software development, particularly in Java, Spring Boot, and Hibernate. However, the role requires expertise in machine learning, deep learning, and model deployment, which are not mentioned in the CV.",
+    "matching_skills": [
+      "Java",
+      "Spring Boot",
+      "Hibernate",
+      "SQL",
+      "Python",
+      "Git",
+      "GitHub",
+      "Jira"
+    ],
+    "skill_gaps": [
+      "Machine learning",
+      "Deep learning",
+      "Model deployment",
+      "FastAPI",
+      "GPS and IoT data",
+      "LSTMs and GNNs",
+      "Large language models (LLMs)",
+      "Fine-tuning and RAG implementation"
+    ],
+    "name": "Ahmet EROĞLU",
+    "last_position": "Senior Software Engineer at Yapı Kredi Teknoloji"
+  },
+  {
+    "score": 20,
+    "summary": "The candidate, Ahmet Basmacı, has experience in software engineering with skills in SQLite,.NET, and Flutter. However, the job description requires a Data Scientist with expertise in machine learning, deep learning, and model deployment, which is not directly relevant to Ahmet's skills.",
+    "matching_skills": [],
+    "skill_gaps": [
+      "Machine learning",
+      "Deep learning",
+      "Model deployment",
+      "Python",
+      "SQL",
+      "Scikit-learn",
+      "Xgboost",
+      "Lightgbm",
+      "Catboost",
+      "PyTorch",
+      "TensorFlow",
+      "FastAPI",
+      "GPS and IoT data",
+      "LSTMs and GNNs",
+      "Large language models (LLMs)",
+      "Research methodologies"
+    ],
+    "name": "Ahmet Basmacı",
+    "last_position": "Software Engineer, Primeware - Software Solutions"
+  },
+  {
+    "score": 20,
+    "summary": "The candidate, Emre Can Kazar, has 3 years of experience as a QA Automation Engineer with expertise in software development life cycle, software testing life cycle, and automation frameworks. However, the job description is for a Data Scientist position with expertise in machine learning, deep learning, and model deployment, which is a significant mismatch.",
+    "matching_skills": [],
+    "skill_gaps": [
+      "Machine learning",
+      "Deep learning",
+      "Model deployment",
+      "Python",
+      "SQL",
+      "Scikit-learn",
+      "Xgboost",
+      "Lightgbm",
+      "Catboost",
+      "PyTorch",
+      "TensorFlow",
+      "FastAPI",
+      "GPS and IoT data",
+      "LSTMs and GNNs",
+      "Large language models (LLMs)",
+      "Research methodologies"
+    ],
+    "name": "Emre Can Kazar",
+    "last_position": "QA Automation Engineer, Primeware - Software Solutions"
+  }
 ]
